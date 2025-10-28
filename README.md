@@ -52,5 +52,3 @@ When I’m not coding, I’m usually exploring new tech, optimizing code, or bra
 💻 **GitHub:** [github.com/sivamsh1](https://github.com/sivamsh1)
 
 ---
-
-⭐️ *“Strive for clean code, scalable systems, and impactful solutions.”*
