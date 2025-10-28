@@ -1,15 +1,56 @@
-💡 About Me
+# 👋 Hi, I'm Sivamsan C K  
 
-Hi, I’m Sivamsan C K, a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems through clean, efficient code. I specialize in developing end-to-end solutions using React.js, Node.js, and TypeScript, with strong experience in AWS, CI/CD, and cloud deployments.
+💻 **Full Stack Developer | React.js | Node.js | AWS | TypeScript**  
 
-At Tenacious Technology, I’ve built live insurance platforms handling 1,000+ daily quotes and automated workflows that boosted efficiency by 80%. My projects span from e-commerce systems with secure payments and dashboards to learning platforms with real-time features and automated certificates.
+I'm a passionate **Full Stack Developer** who loves crafting scalable, high-performance web applications with clean and modern code. I enjoy turning complex problems into simple, elegant solutions and delivering end-to-end products that make an impact.  
 
-I thrive in collaborative environments, enjoy learning new tools, and focus on writing maintainable, production-ready code.
+Currently, I'm working at **Tenacious Technology, Coimbatore**, where I build and optimize **insurance platforms** that serve thousands of users — integrating real-time APIs, automating workflows, and deploying seamless CI/CD pipelines on AWS.  
 
-⚙️ Tech Stack
+---
 
-Frontend: React, Redux Toolkit, Next.js, Tailwind, TypeScript
-Backend: Node.js, Express, REST APIs, WebSockets, Authentication
-Database: MongoDB, PostgreSQL
-Cloud/DevOps: AWS, Docker, Nginx, GitHub Actions
-Others: Redis, Socket.IO, Stripe, PayPal, Razorpay
+### 🚀 What I Do  
+- ⚛️ Build interactive, responsive UIs with **React.js, Redux Toolkit, Next.js, and Tailwind CSS**  
+- 🧠 Design robust backends with **Node.js, Express.js, and TypeScript (MVC architecture)**  
+- 🗃️ Work with databases like **MongoDB** and **PostgreSQL**, using indexing and aggregation  
+- ☁️ Manage **AWS**, **Docker**, **Nginx**, and CI/CD pipelines using **GitHub Actions**  
+- 💳 Integrate **payment gateways** (Razorpay, Stripe, PayPal) and **WebSockets** for real-time systems  
+
+---
+
+### 🧩 Featured Projects  
+#### 🛡️ [Student Travel Insurance Platform](https://travel-uat.policyinsure.com/)
+> Built with React.js & Node.js, processes 1,000+ daily quotes from 4 leading insurers.  
+> Automated policy generation reduced manual effort by 80%.  
+
+#### 🕒 [InTime – Premium Watch E-Commerce](https://github.com/sivamsh1/InTime-Project)
+> A complete MERN stack e-commerce app with secure authentication, cloud storage, and analytics dashboard.  
+
+#### 🎓 [Gyantree – Learning Platform](#)
+> React + Node.js platform for skill-based courses with automated certificate generation.  
+
+---
+
+### 🧰 Tech Stack  
+**Frontend:** React.js, Redux Toolkit, Next.js, Tailwind CSS, TypeScript  
+**Backend:** Node.js, Express.js, REST APIs, WebSockets, Authentication  
+**Database:** MongoDB, PostgreSQL  
+**Cloud/DevOps:** AWS, Docker, Nginx, GitHub Actions  
+**Others:** Redis, Socket.IO, Stripe, Razorpay, PayPal  
+
+---
+
+### 🌱 Beyond Code  
+I’m a strong believer in **continuous learning**, **clean architecture**, and **team collaboration**.  
+When I’m not coding, I’m usually exploring new tech, optimizing code, or brainstorming creative product ideas.  
+
+---
+
+### 📫 Let's Connect  
+📧 **Email:** [cksivamsan@gmail.com](mailto:cksivamsan@gmail.com)  
+📞 **Phone:** +91 9744707392  
+💼 **LinkedIn:** [linkedin.com/in/sivamsan-ck-152251227](https://www.linkedin.com/in/sivamsan-ck-152251227/)  
+💻 **GitHub:** [github.com/sivamsh1](https://github.com/sivamsh1)
+
+---
+
+⭐️ *“Strive for clean code, scalable systems, and impactful solutions.”*
